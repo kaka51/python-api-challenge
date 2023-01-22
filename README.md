@@ -1,5 +1,5 @@
 # python-api-challenge
-Purpose: Use Weather and Geoapify API to retrive the data <br>
+Purpose: Use Weather and Geoapify API to retrive the data for below analysis <br>
 
 WeatherPy <br>
 1.Create Plots to Showcase the Relationship Between Weather Variables and Latitude<br>
