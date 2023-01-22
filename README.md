@@ -18,7 +18,7 @@ Northern Hemisphere: Wind Speed vs. Latitude<br>
 Southern Hemisphere: Wind Speed vs. Latitude<br>
 
 VacationPy <br>
-1.Create map to display all city 
-2.Remove null value 
-3.Find the first hotel located within 10,000 metres of each city
-4.Create map to display all city with holel name and country in the hover message
+1.Create map to display all city <br>
+2.Remove null value <br>
+3.Find the first hotel located within 10,000 metres of each city<br>
+4.Create map to display all city with holel name and country in the hover message<br>
